@@ -114,8 +114,8 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:pasteldew@gmail.com
-    - label: "Website"
+      #url: mailto:pasteldew@gmail.com
+    - label: "XE Blog"
       icon: "fas fa-fw fa-link"
       url: "http://www.pdlab.kr"
     - label: "Twitter"
