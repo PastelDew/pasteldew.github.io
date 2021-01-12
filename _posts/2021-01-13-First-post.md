@@ -1,9 +1,9 @@
 ---
-title: 새단장 안내(Test)
+title: 첫 포스팅
 author: Hee-Jun Song
 date: 2021-01-13 00:37:00 +0900
-categories: [Blogging, Demo]
-tags: [typography]
+categories: [블로그, 잡담]
+tags: [etc.]
 math: true
 mermaid: true
 image: #https://cdn.jsdelivr.net/gh/cotes2020/chirpy-images/commons/devices-mockup.png
