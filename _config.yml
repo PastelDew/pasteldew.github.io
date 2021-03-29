@@ -28,7 +28,11 @@ github:
   username: pasteldew             # change to your github username
 
 twitter:
+<<<<<<< HEAD
   username:            # change to your twitter username
+=======
+  username: None            # change to your twitter username
+>>>>>>> a174f99... Update config
 
 social:
   name: Hee-Jun Song                  # it will shows as the copyright owner in Footer
