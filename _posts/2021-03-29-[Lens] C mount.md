@@ -19,7 +19,7 @@ ANSI B1.1표준화 "1-32 UN 2A"
    
    
 <center>
-    <img src="../assets/images/posts/2021-03-29-Lens/Flange focal distance.png" width="200px"/>
+    <img src="../assets/images/posts/2021-03-29-Lens/Flange focal distance.PNG" width="200px"/>
     <p>
     플렌지의 초점 거리 개념 (출처: <a href="https://en.wikipedia.org/wiki/Flange_focal_distance">[위키피디아] Flange focal distance</a>)
     </p>
