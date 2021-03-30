@@ -6,3 +6,7 @@
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+.page__content { // 기본 폰트 사이즈
+    font-size:0.7em;
+}
