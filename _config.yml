@@ -29,7 +29,7 @@ github_username:  pasteldew
 
 # Build settings
 #theme: minima
-theme: jekyll-theme-clean-blog
+# theme: jekyll-theme-clean-blog
 plugins:
   - jekyll-feed
 
