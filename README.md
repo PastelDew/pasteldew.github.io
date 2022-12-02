@@ -1,2 +1,0 @@
-# pasteldew.github.io
-Blog
