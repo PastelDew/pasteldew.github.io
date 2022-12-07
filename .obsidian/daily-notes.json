@@ -1,0 +1,5 @@
+{
+  "folder": "_posts/",
+  "format": "YYYY-MM-DD-\\D\\a\\i\\l\\l\\y\\.\\m\\d",
+  "template": "obsidian_templates/DailyTemplate"
+}

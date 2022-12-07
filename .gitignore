@@ -6,3 +6,4 @@ vendor/bundle
 node_modules
 Gemfile.lock
 *.gem
+.obsidian/workspace.json
